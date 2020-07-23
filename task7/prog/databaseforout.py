@@ -1,5 +1,5 @@
 user = {	
-    'Anna': 'Anna21'	
+    'vlad': 'vlad21'	
 }	
 
 tokens = {	
